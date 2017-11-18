@@ -1,3 +1,5 @@
+# Make sure 'Facebook' container exists before import (create if needed)
+
 *.facebook.com , Facebook
 *.fbcdn.com , Facebook
 *.fbcdn.net , Facebook

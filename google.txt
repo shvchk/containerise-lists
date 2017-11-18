@@ -1,3 +1,5 @@
+# Make sure 'Google' container exists before import (create if needed)
+
 *.g.co , Google
 *.goo.gl , Google
 *.google , Google
