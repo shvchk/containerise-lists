@@ -1,0 +1,3 @@
+*.vk.com , VK
+*.vkontakte.ru , VK
+*.userapi.com , VK 

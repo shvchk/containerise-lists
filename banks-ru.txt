@@ -1,0 +1,316 @@
+# Сбербанк
+*.sberbank.com , Банкинг
+*.sberbank.ru , Банкинг
+*.sberbank1.ru , Банкинг
+*.sberbank21.ru , Банкинг
+*.sbrf.ru , Банкинг
+*.xn--80abap1arsf.xn--p1ai , Банкинг
+
+# ВТБ
+*.bm.ru , Банкинг
+*.szrcvtb.ru , Банкинг
+*.vtb.com , Банкинг
+*.vtb.ru , Банкинг
+*.vtb-sz.ru , Банкинг
+
+# ВТБ 24
+*.olb.ru , Банкинг
+*.onlinebroker.ru , Банкинг
+*.vtb24.ru , Банкинг
+*.vtb-24.ru , Банкинг
+
+# Россельхозбанк
+*.rshb.ru , Банкинг
+
+# Газпромбанк
+*.gazprombank.be , Банкинг
+*.gazprombank.com , Банкинг
+*.gazprombank.cz , Банкинг
+*.gazprombank.es , Банкинг
+*.gazprombank.gr , Банкинг
+*.gazprombank.in , Банкинг
+*.gazprombank.info , Банкинг
+*.gazprombank.ru , Банкинг
+*.gpb.ru , Банкинг
+*.gpbbroker.ru , Банкинг
+*.gpbroker.ru , Банкинг
+*.xn--80aacgvulkfjl.xn--p1ai , Банкинг
+*.xn--90ad0b.xn--p1ai , Банкинг
+
+# Альфа-Банк
+*.alfafinance.ru , Банкинг
+*.alfabank.com , Банкинг
+*.alfa-bank.com , Банкинг
+*.alfabank.ru , Банкинг
+*.alfa-bank.ru , Банкинг
+*.alfadirect.ru , Банкинг
+*.alfa-forex.ru , Банкинг
+*.alfaportal.ru , Банкинг
+*.cosmocard.ru , Банкинг
+*.mancard.ru , Банкинг
+
+# Бинбанк
+*.binbank.ru , Банкинг
+*.binbankcards.ru , Банкинг
+*.bnexclusive.ru , Банкинг
+*.mdm.ru , Банкинг
+
+# Открытие
+*.bank-open.ru , Банкинг
+*.bankotkritie.ru , Банкинг
+*.bank-otkritie.ru , Банкинг
+*.ofc.ru , Банкинг
+*.open.ru , Банкинг
+*.openbank.ru , Банкинг
+*.otkritiebank.ru , Банкинг
+*.otkritie-bank.ru , Банкинг
+*.otkritiefc.ru , Банкинг
+*.otkritiepb.ru , Банкинг
+*.nomos.ru , Банкинг
+*.khmb.ru , Банкинг
+*.pkb.ru , Банкинг
+*.rbr.ru , Банкинг
+*.rocketbank.ru , Банкинг
+*.tochka.com , Банкинг
+
+# Промсвязьбанк
+*.psbank.ru , Банкинг
+*.psbinvest.ru , Банкинг
+
+# Райффайзенбанк
+*.raiffeisen.ru , Банкинг
+
+# Московский Кредитный Банк
+*.mkb.ru , Банкинг
+
+# Совкомбанк
+*.credfit.ru , Банкинг
+*.halvacard.ru , Банкинг
+*.mobicred.ru , Банкинг
+*.sovcombank.com , Банкинг
+*.sovcombank.ru , Банкинг
+*.sovcombank.copiny.com , Банкинг
+*.sovcomplus.ru , Банкинг
+
+# Росбанк
+*.custody.ru , Банкинг
+*.rosbank.ru , Банкинг
+
+# Новикомбанк
+*.novikom.ru , Банкинг
+
+# ДельтаКредит
+*.deltacredit.ru , Банкинг
+
+# Нордеа
+*.nordea.ru , Банкинг
+
+# ЮниКредит
+*.imbank.ru , Банкинг
+*.unicredit.ru , Банкинг
+*.unicreditbank.ru , Банкинг
+*.unicreditgroup.ru , Банкинг
+
+# Московский Индустриальный Банк
+*.minbank.ru , Банкинг
+
+# Санкт-Петербург
+*.bspb.ru , Банкинг
+
+# Уралсиб
+*.bfa.ru , Банкинг
+*.bankuralsib.ru , Банкинг
+*.uralsib.ru , Банкинг
+*.uralsibbank.ru , Банкинг
+*.platipokarte.ru , Банкинг
+
+# БМ-Банк
+*.bm-bank.ru , Банкинг
+
+# Хоум Кредит
+*.homecredit.ru , Банкинг
+
+# Уральский Банк Реконструкции и Развития
+*.ubrr.ru , Банкинг
+*.prazdnik-ubrr.ru , Банкинг
+
+# СМП Банк
+*.investcapitalbank.ru , Банкинг
+*.smpbank.ru , Банкинг
+
+# Русский Стандарт
+*.acquiring.ru , Банкинг
+*.americanexpress.ru , Банкинг
+*.amexblue.ru , Банкинг
+*.daricard.ru , Банкинг
+*.dinersclubcard.ru , Банкинг
+*.discovercard.ru , Банкинг
+*.membership-rewards.ru , Банкинг
+*.onlinecredit.ru , Банкинг
+*.pocketbank.ru , Банкинг
+*.rs.ru , Банкинг
+*.rsb.ru , Банкинг
+*.rs-express.ru , Банкинг
+*.russianstandardbank.com , Банкинг
+*.virtucard.ru , Банкинг
+*.vkladnaleto.ru , Банкинг
+*.xn--80aaaf5bvagpog6c7f.xn--p1ai , Банкинг
+*.xn--80aaabgu5abtfg7a.xn--p1ai , Банкинг
+
+# Восточный Банк
+*.vostbank.ru , Банкинг
+
+# Возрождение
+*.vbank.ru , Банкинг
+
+# Тинькофф
+*.kupivkredit.ru , Банкинг
+*.tcsbank.ru , Банкинг
+*.tinkoff.ru , Банкинг
+*.tinkov.ru , Банкинг
+*.tssbank.ru , Банкинг
+
+# Российский Капитал
+*.roscap.com , Банкинг
+*.roscap.ru , Банкинг
+
+# Траст
+*.trust.ru , Банкинг
+
+# Ситибанк
+*.citibank.ru , Банкинг
+
+# Почта Банк
+*.pochtabank.ru , Банкинг
+
+# Московский Областной Банк
+*.mosoblbank.ru , Банкинг
+
+# Ак Барс
+*.akbars.ru , Банкинг
+*.xn--80aac9a6ag.xn--p1ai , Банкинг
+
+# Пересвет
+*.bank-peresvet.ru , Банкинг
+
+# Рост Банк
+*.rostbank.ru , Банкинг
+
+# Ренессанс Кредит
+*.rencredit.ru , Банкинг
+
+# Абсолют
+*.absolutbank.com , Банкинг
+*.absolutbank.ru , Банкинг
+*.absolut-trust.ru , Банкинг
+*.absolutvip.ru , Банкинг
+
+# Росгосстрах Банк
+*.rgsbank.ru , Банкинг
+
+# СКБ-Банк
+*.begom.info , Банкинг
+*.skbbank.ru , Банкинг
+
+# Банк Зенит
+*.zenit.ru , Банкинг
+
+# МТС Банк
+*.mtsbank.ru , Банкинг
+
+# Центр-инвест
+*.centrinvest.ru , Банкинг
+
+# Запсибкомбанк
+*.zapsibcombank.ru , Банкинг
+*.zapsibkombank.ru , Банкинг
+*.xn--80aaca1ahpcpmhi0a.xn--p1ai , Банкинг
+
+# Россия
+*.abr.ru , Банкинг
+
+# Связь-Банк
+*.blizko.biz , Банкинг
+*.sviaz-bank.ru , Банкинг
+
+# Азиатско-Тихоокеанский Банк
+*.atb.su , Банкинг
+
+# Глобэкс
+*.globexbank.ru , Банкинг
+
+# Кубань Кредит
+*.kubankredit.ru , Банкинг
+
+# ОТП Банк
+*.otpbank.ru , Банкинг
+*.touchbank.com , Банкинг
+
+# Транскапиталбанк
+*.tkbbank.com , Банкинг
+*.tkbbank.ru , Банкинг
+*.transcapital.com , Банкинг
+*.transcapital.ru , Банкинг
+
+# Кредит Европа Банк
+*.cardcredit.ru , Банкинг
+*.crediteurope.ru , Банкинг
+*.comfortcredit.ru , Банкинг
+
+# Инвестторгбанк
+*.itb.ru , Банкинг
+
+# Российский Национальный Коммерческий Банк
+*.rncb.ru , Банкинг
+
+# Всероссийский Банк Развития Регионов
+*.vbrr.ru , Банкинг
+
+# Локо-Банк
+*.lockobank.ru , Банкинг
+
+# Авангард
+*.avangard.ru , Банкинг
+
+# РосЕвроБанк
+*.rosevrobank.ru , Банкинг
+
+# Сургутнефтегазбанк
+*.sngb.ru , Банкинг
+
+# Советский
+*.sovbank.ru , Банкинг
+
+# Золотая Корона
+*.kartamfo.org , Банкинг
+*.perevod-korona.com , Банкинг
+*.mfo-korona.com , Банкинг
+*.creditkorona.com , Банкинг
+*.credit-korona.com , Банкинг
+*.kredit-korona.com , Банкинг
+*.kartamfo.com , Банкинг
+*.koronapay.com , Банкинг
+*.kartamfo.net , Банкинг
+*.zolotayakorona.ru , Банкинг
+*.perevod-korona.ru , Банкинг
+*.creditkorona.ru , Банкинг
+*.credit-korona.ru , Банкинг
+*.kredit-korona.ru , Банкинг
+*.kykyryza.ru , Банкинг
+*.mykykyryza.ru , Банкинг
+*.mfocard.ru , Банкинг
+*.krugosvetcard.ru , Банкинг
+*.mycard.ru , Банкинг
+*.cardstandard.ru , Банкинг
+*.exchange.ru , Банкинг
+*.card.beeline.ru , Банкинг
+*.paycard.beeline.ru , Банкинг
+*.bank.beeline.ru , Банкинг
+*.vivadengi.ru , Банкинг
+*.mycarbon.ru , Банкинг
+*.kartamfo.ru , Банкинг
+*.rnko.ru , Банкинг
+*.gift-cards.ru , Банкинг
+*.premiumpass.ru , Банкинг
+*.giftpass.ru , Банкинг
+*.mygift.ru , Банкинг
