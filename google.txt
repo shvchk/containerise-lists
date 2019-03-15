@@ -155,6 +155,8 @@
 *.google.vu , Google
 *.google.ws , Google
 *.gooogle.com , Google
+*.gstatic.com , Google
+*.googleusercontent.com , Google
 *.youtube , Google
 *.youtube.com , Google
 *.youtu.be , Google
