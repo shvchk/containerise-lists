@@ -1,22 +1,35 @@
-*.ya.ru , Yandex
-*.yandex , Yandex
-*.yandex.aero , Yandex
-*.yandex.asia , Yandex
-*.yandex.by , Yandex
-*.yandex.com.tr , Yandex
-*.yandex.com.ua , Yandex
-*.yandex.de , Yandex
-*.yandex.ee , Yandex
-*.yandex.jobs , Yandex
-*.yandex.kz , Yandex
-*.yandex.name , Yandex
-*.yandex.net , Yandex
-*.yandex.org , Yandex
-*.yandex.ru , Yandex
-*.yandex.travel , Yandex
-*.yandex.ua , Yandex
-*.yandex.uz , Yandex
-*.яндекс.рф , Yandex
+*.ya.ru, Yandex
+*.yandex, Yandex
+*.yandex.aero, Yandex
+*.yandex.asia, Yandex
+*.yandex.az, Yandex
+*.yandex.by, Yandex
+*.yandex.com, Yandex
+*.yandex.com.ru, Yandex
+*.yandex.com.tr, Yandex
+*.yandex.com.ua, Yandex
+*.yandex.de, Yandex
+*.yandex.ee, Yandex
+*.yandex.it, Yandex
+*.yandex.jobs, Yandex
+*.yandex.kz, Yandex
+*.yandex.lt, Yandex
+*.yandex.lv, Yandex
+*.yandex.md, Yandex
+*.yandex.mobi, Yandex
+*.yandex.name, Yandex
+*.yandex.net, Yandex
+*.yandex.net.ru, Yandex
+*.yandex.nu, Yandex
+*.yandex.org, Yandex
+*.yandex.pt, Yandex
+*.yandex.ru, Yandex
+*.yandex.tj, Yandex
+*.yandex.tm, Yandex
+*.yandex.travel, Yandex
+*.yandex.ua, Yandex
+*.yandex.uz, Yandex
+*.яндекс.рф, Yandex
 
 *.money-yandex.ru , Yandex
 *.ya-money.ru , Yandex
