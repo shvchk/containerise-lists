@@ -1,0 +1,22 @@
+*.1688.com, Alibaba
+*.alibaba.com, Alibaba
+*.aliexpress.com, Alibaba
+*.taobao.com, Alibaba
+*.tmall.com, Alibaba
+*.alipay.com, Alibaba
+
+*.alibabagroup.com, Alibaba
+
+*.alibabacloud.com, Alibaba
+*.alimama.com, Alibaba
+
+*.alios.cn, Alibaba
+*.aliyun.com, Alibaba
+*.yunos.com, Alibaba
+
+*.amap.com, Alibaba
+*.ddchong.com, Alibaba
+*.dingtalk.com, Alibaba
+*.fliggy.com, Alibaba
+*.ucweb.com, Alibaba
+*.xiami.com, Alibaba
