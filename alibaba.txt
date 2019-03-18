@@ -4,6 +4,7 @@
 *.taobao.com, Alibaba
 *.tmall.com, Alibaba
 *.alipay.com, Alibaba
+*.itao.com, Alibaba
 
 *.alibabagroup.com, Alibaba
 
