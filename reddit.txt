@@ -1,6 +1,4 @@
-# Make sure 'reddit' container exists before import (create if needed)
-
-*.reddit.com , reddit
-*.redd.it , reddit
-*.redditstatic.com , reddit
-*.redditmedia.com , reddit 
+!*.reddit.com , reddit
+!*.redd.it , reddit
+!*.redditstatic.com , reddit
+!*.redditmedia.com , reddit 

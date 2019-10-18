@@ -1,90 +1,90 @@
-*.ya.ru, Yandex
-*.yandex, Yandex
-*.yandex.aero, Yandex
-*.yandex.asia, Yandex
-*.yandex.az, Yandex
-*.yandex.by, Yandex
-*.yandex.com, Yandex
-*.yandex.com.ru, Yandex
-*.yandex.com.tr, Yandex
-*.yandex.com.ua, Yandex
-*.yandex.de, Yandex
-*.yandex.ee, Yandex
-*.yandex.it, Yandex
-*.yandex.jobs, Yandex
-*.yandex.kz, Yandex
-*.yandex.lt, Yandex
-*.yandex.lv, Yandex
-*.yandex.md, Yandex
-*.yandex.mobi, Yandex
-*.yandex.name, Yandex
-*.yandex.net, Yandex
-*.yandex.net.ru, Yandex
-*.yandex.nu, Yandex
-*.yandex.org, Yandex
-*.yandex.pt, Yandex
-*.yandex.ru, Yandex
-*.yandex.tj, Yandex
-*.yandex.tm, Yandex
-*.yandex.travel, Yandex
-*.yandex.ua, Yandex
-*.yandex.uz, Yandex
-*.яндекс.рф, Yandex
+!*.ya.ru, Yandex
+!*.yandex, Yandex
+!*.yandex.aero, Yandex
+!*.yandex.asia, Yandex
+!*.yandex.az, Yandex
+!*.yandex.by, Yandex
+!*.yandex.com, Yandex
+!*.yandex.com.ru, Yandex
+!*.yandex.com.tr, Yandex
+!*.yandex.com.ua, Yandex
+!*.yandex.de, Yandex
+!*.yandex.ee, Yandex
+!*.yandex.it, Yandex
+!*.yandex.jobs, Yandex
+!*.yandex.kz, Yandex
+!*.yandex.lt, Yandex
+!*.yandex.lv, Yandex
+!*.yandex.md, Yandex
+!*.yandex.mobi, Yandex
+!*.yandex.name, Yandex
+!*.yandex.net, Yandex
+!*.yandex.net.ru, Yandex
+!*.yandex.nu, Yandex
+!*.yandex.org, Yandex
+!*.yandex.pt, Yandex
+!*.yandex.ru, Yandex
+!*.yandex.tj, Yandex
+!*.yandex.tm, Yandex
+!*.yandex.travel, Yandex
+!*.yandex.ua, Yandex
+!*.yandex.uz, Yandex
+!*.яндекс.рф, Yandex
 
-*.money-yandex.ru , Yandex
-*.ya-money.ru , Yandex
-*.yamoney.info , Yandex
-*.yamoney.ru , Yandex
-*.yandex.money , Yandex
+!*.money-yandex.ru , Yandex
+!*.ya-money.ru , Yandex
+!*.yamoney.info , Yandex
+!*.yamoney.ru , Yandex
+!*.yandex.money , Yandex
 
-*.yasobe.ru , Yandex
-*.yasoberu.ru , Yandex
+!*.yasobe.ru , Yandex
+!*.yasoberu.ru , Yandex
 
-*.yaconnect.ru , Yandex
+!*.yaconnect.ru , Yandex
 
-*.yandex-launcher.com , Yandex
-*.yandexlauncher.com , Yandex
+!*.yandex-launcher.com , Yandex
+!*.yandexlauncher.com , Yandex
 
-*.yandexdatafactory.com , Yandex
-*.yandexdatafactory.ru , Yandex
+!*.yandexdatafactory.com , Yandex
+!*.yandexdatafactory.ru , Yandex
 
-*.yandex-school.ru , Yandex
-*.yandexdataschool.com , Yandex
-*.yandexdataschool.ru , Yandex
-*.ydf-conference.com , Yandex
-*.ysda.ru , Yandex
+!*.yandex-school.ru , Yandex
+!*.yandexdataschool.com , Yandex
+!*.yandexdataschool.ru , Yandex
+!*.ydf-conference.com , Yandex
+!*.ysda.ru , Yandex
 
-*.auto.ru , Yandex
-*.avto.ru , Yandex
-*.beru.ru , Yandex
-*.bringly.ru , Yandex
-*.edadeal.ru , Yandex
-*.kinopoisk.ru , Yandex
-*.partiyaedi.ru , Yandex
+!*.auto.ru , Yandex
+!*.avto.ru , Yandex
+!*.beru.ru , Yandex
+!*.bringly.ru , Yandex
+!*.edadeal.ru , Yandex
+!*.kinopoisk.ru , Yandex
+!*.partiyaedi.ru , Yandex
 
-*.punto-switcher.com , Yandex
-*.punto-switcher.ru , Yandex
-*.punto.ru , Yandex
+!*.punto-switcher.com , Yandex
+!*.punto-switcher.ru , Yandex
+!*.punto.ru , Yandex
 
-*.2yandex.ru , Yandex
-*.kremlyandex.ru , Yandex
-*.ndex.ru , Yandex
-*.newsyandex.ru , Yandex
-*.wwwyandex.ru , Yandex
-*.yanclex.ru , Yandex
-*.yandes.ru , Yandex
-*.yandesk.com , Yandex
-*.yandesk.org , Yandex
-*.yandesk.ru , Yandex
-*.yandfex.ru , Yandex
-*.yandx.ru , Yandex
+!*.2yandex.ru , Yandex
+!*.kremlyandex.ru , Yandex
+!*.ndex.ru , Yandex
+!*.newsyandex.ru , Yandex
+!*.wwwyandex.ru , Yandex
+!*.yanclex.ru , Yandex
+!*.yandes.ru , Yandex
+!*.yandesk.com , Yandex
+!*.yandesk.org , Yandex
+!*.yandesk.ru , Yandex
+!*.yandfex.ru , Yandex
+!*.yandx.ru , Yandex
 
-*.ya-plus-plus.ru , Yandex
-*.ya-plusplus.ru , Yandex
-*.yandex-plus-plus.ru , Yandex
-*.yandex-plusplus.ru , Yandex
-*.yandexplusplus.ru , Yandex
-*.yaplusplus.ru , Yandex
+!*.ya-plus-plus.ru , Yandex
+!*.ya-plusplus.ru , Yandex
+!*.yandex-plus-plus.ru , Yandex
+!*.yandex-plusplus.ru , Yandex
+!*.yandexplusplus.ru , Yandex
+!*.yaplusplus.ru , Yandex
 
-*.yandex-labs.ru , Yandex
-*.yandexmedia.ru , Yandex
+!*.yandex-labs.ru , Yandex
+!*.yandexmedia.ru , Yandex

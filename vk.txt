@@ -1,47 +1,45 @@
-# Make sure 'VK' container exists before import (create if needed)
+!*.vk.com , VK
+!*.vk.cc , VK
+!*.vk.me , VK
+!*.vk.photos , VK
+!*.vk.life , VK
+!*.vk.camera , VK
+!*.vk.today , VK
 
-*.vk.com , VK
-*.vk.cc , VK
-*.vk.me , VK
-*.vk.photos , VK
-*.vk.life , VK
-*.vk.camera , VK
-*.vk.today , VK
+!*.vĸ.com , VK
 
-*.xn--v-tka.com , VK
+!*.vcontakte.ru , VK
+!*.vkontacte.ru , VK
+!*.vcontacte.ru , VK
+!*.vkontakt.ru , VK
 
-*.vcontakte.ru , VK
-*.vkontacte.ru , VK
-*.vcontacte.ru , VK
-*.vkontakt.ru , VK
+!*.userapi.com , VK
+!*.userapi.info , VK
+!*.userapi.org , VK
+!*.userapi.ru , VK
 
-*.userapi.com , VK
-*.userapi.info , VK
-*.userapi.org , VK
-*.userapi.ru , VK
+!*.vk-portal.net , VK
 
-*.vk-portal.net , VK
+!*.vkuservideo.net , VK
+!*.vkuseraudio.net , VK
+!*.vkuservideo.com , VK
+!*.vkuseraudio.com , VK
+!*.vkuserlive.net , VK
 
-*.vkuservideo.net , VK
-*.vkuseraudio.net , VK
-*.vkuservideo.com , VK
-*.vkuseraudio.com , VK
-*.vkuserlive.net , VK
+!*.vk-apps.com , VK
+!*.vktickets.guru , VK
+!*.vkforms.ru , VK
 
-*.vk-apps.com , VK
-*.vktickets.guru , VK
-*.vkforms.ru , VK
+!*.vkmessenger.com , VK
+!*.vkgo.app , VK
+!*.vkchat.app , VK
+!*.vklive.app , VK
+!*.vklive.org , VK
+!*.vkmessenger.app , VK
 
-*.vkmessenger.com , VK
-*.vkgo.app , VK
-*.vkchat.app , VK
-*.vklive.app , VK
-*.vklive.org , VK
-*.vkmessenger.app , VK
+!*.vkcup.org , VK
+!*.vkcup.ru , VK
+!*.k0d.top , VK
+!*.mvk.com , VK
 
-*.vkcup.org , VK
-*.vkcup.ru , VK
-*.k0d.top , VK
-*.mvk.com , VK
-
-*.vkadre.ru , VK
+!*.vkadre.ru , VK
