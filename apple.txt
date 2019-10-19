@@ -1,0 +1,4 @@
+!*.apple.com , Apple
+!*.cdn-apple.com , Apple
+
+!*.next.com , Apple

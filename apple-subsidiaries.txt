@@ -1,0 +1,7 @@
+!*.beatsbydre.com , Apple
+!*.beddit.com , Apple
+!*.drive.ai , Apple
+!*.foundationdb.org , Apple
+!*.shazam.com , Apple
+!*.turi.com , Apple
+!*.workflow.is , Apple
