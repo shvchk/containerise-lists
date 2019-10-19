@@ -1,4 +1,5 @@
-!*.reddit.com , reddit
 !*.redd.it , reddit
+!*.reddit.com , reddit
+!*.redditblog.com , reddit
+!*.redditmedia.com , reddit
 !*.redditstatic.com , reddit
-!*.redditmedia.com , reddit 
