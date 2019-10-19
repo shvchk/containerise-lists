@@ -1,0 +1,8 @@
+!*.behance.net , Adobe
+!*.fotolia.com , Adobe
+!*.ftcdn.net , Adobe
+!*.magento.com , Adobe
+!*.marketo.com , Adobe
+!*.mixamo.com , Adobe
+!*.phonegap.com , Adobe
+!*.tubemogul.com , Adobe
