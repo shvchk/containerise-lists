@@ -1,0 +1,63 @@
+# Amazon national domains
+!*.amazon.ca , Amazon
+!*.amazon.cn , Amazon
+!*.amazon.co.jp , Amazon
+!*.amazon.co.uk , Amazon
+!*.amazon.com.au , Amazon
+!*.amazon.com.br , Amazon
+!*.amazon.com.mx , Amazon
+!*.amazon.com.sg , Amazon
+!*.amazon.com.tr , Amazon
+!*.amazon.de , Amazon
+!*.amazon.es , Amazon
+!*.amazon.fr , Amazon
+!*.amazon.in , Amazon
+!*.amazon.it , Amazon
+!*.amazon.nl , Amazon
+
+# Amazon TLD domains
+!*.amazon.clothing , Amazon
+!*.amazon.com , Amazon
+!*.amazon.company , Amazon
+!*.amazon.cruises , Amazon
+!*.amazon.dog , Amazon
+!*.amazon.energy , Amazon
+!*.amazon.express , Amazon
+!*.amazon.fund , Amazon
+!*.amazon.game , Amazon
+!*.amazon.gd , Amazon
+!*.amazon.gent , Amazon
+!*.amazon.hockey , Amazon
+!*.amazon.international , Amazon
+!*.amazon.jobs , Amazon
+!*.amazon.kiwi , Amazon
+!*.amazon.ltda , Amazon
+!*.amazon.press , Amazon
+!*.amazon.re , Amazon
+!*.amazon.salon , Amazon
+!*.amazon.shopping , Amazon
+!*.amazon.soccer , Amazon
+!*.amazon.tickets , Amazon
+!*.amazon.tienda , Amazon
+!*.amazon.tours , Amazon
+!*.amazon.training , Amazon
+!*.amazon.tv , Amazon
+!*.amazon.wiki , Amazon
+
+# Amazon services/other domains
+!*.aboutamazon.com , Amazon
+!*.alexa.com , Amazon
+!*.amazonaws.cn , Amazon
+!*.amazonaws.com , Amazon
+!*.amazoninspire.com , Amazon
+!*.amazonpay.in , Amazon
+!*.amazonteam.org , Amazon
+!*.amzn.to , Amazon
+!*.awscloud.com , Amazon
+!*.awsevents.com , Amazon
+!*.cloudfront.net , Amazon
+!*.elasticbeanstalk.com , Amazon
+!*.lab126.com , Amazon
+!*.mturk.com , Amazon
+!*.primevideo.com , Amazon
+!*.seattlespheres.com , Amazon

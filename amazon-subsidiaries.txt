@@ -1,0 +1,24 @@
+# Amazon subsidiaries domains
+!*.6pm.com , Amazon
+!*.abebooks.com , Amazon
+!*.acx.com , Amazon
+!*.audible.com , Amazon
+!*.bookdepository.com , Amazon
+!*.boxofficemojo.com , Amazon
+!*.comixology.com , Amazon
+!*.createspace.com , Amazon
+!*.dpreview.com , Amazon
+!*.eastdane.com , Amazon
+!*.fabric.com , Amazon
+!*.goodreads.com , Amazon
+!*.imdb.com , Amazon
+!*.junglee.com , Amazon
+!*.shopbop.com , Amazon
+!*.souq.com , Amazon
+!*.tenmarks.com , Amazon
+!*.twitch.com , Amazon
+!*.twitch.tv , Amazon
+!*.wholefoodsmarket.com , Amazon
+!*.withoutabox.com , Amazon
+!*.woot.com , Amazon
+!*.zappos.com , Amazon
