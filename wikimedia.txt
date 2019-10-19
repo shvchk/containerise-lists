@@ -1,0 +1,19 @@
+# Wikimedia foundation
+!*.wikimedia.org , Wikimedia
+!*.wikimediafoundation.org , Wikimedia
+!*.wmfusercontent.org , Wikimedia
+
+# Wikimedia content projects
+!*.w.wiki , Wikimedia
+!*.wikibooks.org , Wikimedia
+!*.wikidata.org , Wikimedia
+!*.wikinews.org , Wikimedia
+!*.wikipedia.org , Wikimedia
+!*.wikiquote.org , Wikimedia
+!*.wikisource.org , Wikimedia
+!*.wikiversity.org , Wikimedia
+!*.wikivoyage.org , Wikimedia
+!*.wiktionary.org , Wikimedia
+
+# Wikimedia other
+!*.mediawiki.org , Wikimedia
