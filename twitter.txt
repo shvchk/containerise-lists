@@ -1,0 +1,4 @@
+!*.t.co , Twitter
+!*.twimg.com , Twitter
+!*.twitter.com , Twitter
+!*.twttr.com , Twitter
