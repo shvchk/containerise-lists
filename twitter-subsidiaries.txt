@@ -1,0 +1,3 @@
+!*.periscope.tv , Twitter
+!*.pscp.tv , Twitter
+!*.mopub.com , Twitter
