@@ -163,7 +163,6 @@
 !*.google-analytics.com , Google
 !*.googletagmanager.com , Google
 
-
 !*.blogger.com , Google
 !*.blogspot.ae , Google
 !*.blogspot.al , Google

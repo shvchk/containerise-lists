@@ -1,7 +1,7 @@
 !*.youtube , Google
 !*.youtube.com , Google
 !*.youtu.be , Google
-!*.ytimg.com , Google 
+!*.ytimg.com , Google
 
 !*.waze.com , Google
 !*.waymo.com , Google

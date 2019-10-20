@@ -34,4 +34,4 @@
 !*.ebay.tw , Ebay
 !*.ebay.uk , Ebay
 !*.ebay.us , Ebay
-!*.ebaycbt.co.kr , Ebay 
+!*.ebaycbt.co.kr , Ebay
