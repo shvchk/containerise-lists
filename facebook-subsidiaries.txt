@@ -13,4 +13,5 @@
 !*.whatsapp.com , Facebook
 !*.whatsapp.net , Facebook
 
+!*.wit.ai , Facebook
 !*.workplace.com , Facebook
