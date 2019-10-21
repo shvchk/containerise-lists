@@ -1,17 +1,17 @@
-!*.atdmt.com , Facebook
+@^[^/]+//(?:[^/]+\.)?atdmt\.com/ , Facebook
 
-!*.instagram.com , Facebook
-!*.cdninstagram.com , Facebook
+@^[^/]+//(?:[^/]+\.)?instagram\.com/ , Facebook
+@^[^/]+//(?:[^/]+\.)?cdninstagram\.com/ , Facebook
 
-!*.onavo.com , Facebook
+@^[^/]+//(?:[^/]+\.)?onavo\.com/ , Facebook
 
-!*.oculus.com , Facebook
-!*.oculusvr.com , Facebook
-!*.oculusbrand.com , Facebook
-!*.oculusforbusiness.com , Facebook
+@^[^/]+//(?:[^/]+\.)?oculus\.com/ , Facebook
+@^[^/]+//(?:[^/]+\.)?oculusvr\.com/ , Facebook
+@^[^/]+//(?:[^/]+\.)?oculusbrand\.com/ , Facebook
+@^[^/]+//(?:[^/]+\.)?oculusforbusiness\.com/ , Facebook
 
-!*.whatsapp.com , Facebook
-!*.whatsapp.net , Facebook
+@^[^/]+//(?:[^/]+\.)?whatsapp\.com/ , Facebook
+@^[^/]+//(?:[^/]+\.)?whatsapp\.net/ , Facebook
 
-!*.wit.ai , Facebook
-!*.workplace.com , Facebook
+@^[^/]+//(?:[^/]+\.)?wit\.ai/ , Facebook
+@^[^/]+//(?:[^/]+\.)?workplace\.com/ , Facebook

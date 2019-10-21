@@ -1,13 +1,13 @@
-!*.t.co , Twitter
-!*.twimg.com , Twitter
-!*.twitter.com , Twitter
-!*.twttr.com , Twitter
+@^[^/]+//(?:[^/]+\.)?t\.co/ , Twitter
+@^[^/]+//(?:[^/]+\.)?twimg\.com/ , Twitter
+@^[^/]+//(?:[^/]+\.)?twitter\.com/ , Twitter
+@^[^/]+//(?:[^/]+\.)?twttr\.com/ , Twitter
 
-!*.gnip.com , Twitter
-!*.magicpony.technology , Twitter
-!*.tweetdeck.com , Twitter
+@^[^/]+//(?:[^/]+\.)?gnip\.com/ , Twitter
+@^[^/]+//(?:[^/]+\.)?magicpony\.technology/ , Twitter
+@^[^/]+//(?:[^/]+\.)?tweetdeck\.com/ , Twitter
 
-!*.twitpic.com , Twitter
-!*.vine.co , Twitter
-!*.yesitsyes.com , Twitter
-!*.zeropush.com , Twitter
+@^[^/]+//(?:[^/]+\.)?twitpic\.com/ , Twitter
+@^[^/]+//(?:[^/]+\.)?vine\.co/ , Twitter
+@^[^/]+//(?:[^/]+\.)?yesitsyes\.com/ , Twitter
+@^[^/]+//(?:[^/]+\.)?zeropush\.com/ , Twitter

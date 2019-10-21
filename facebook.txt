@@ -1,12 +1,12 @@
-!*.facebook.com , Facebook
-!*.facebook.net , Facebook
-!*.fb.com , Facebook
-!*.fb.me , Facebook
-!*.fbcdn.com , Facebook
-!*.fbcdn.net , Facebook
-!*.fbsbx.com , Facebook
-!*.tfbnw.net , Facebook
+@^[^/]+//(?:[^/]+\.)?facebook\.com/ , Facebook
+@^[^/]+//(?:[^/]+\.)?facebook\.net/ , Facebook
+@^[^/]+//(?:[^/]+\.)?fb\.com/ , Facebook
+@^[^/]+//(?:[^/]+\.)?fb\.me/ , Facebook
+@^[^/]+//(?:[^/]+\.)?fbcdn\.com/ , Facebook
+@^[^/]+//(?:[^/]+\.)?fbcdn\.net/ , Facebook
+@^[^/]+//(?:[^/]+\.)?fbsbx\.com/ , Facebook
+@^[^/]+//(?:[^/]+\.)?tfbnw\.net/ , Facebook
 
-!*.m.me , Facebook
-!*.messenger.com , Facebook
-!*.messengerdevelopers.com , Facebook
+@^[^/]+//(?:[^/]+\.)?m\.me/ , Facebook
+@^[^/]+//(?:[^/]+\.)?messenger\.com/ , Facebook
+@^[^/]+//(?:[^/]+\.)?messengerdevelopers\.com/ , Facebook

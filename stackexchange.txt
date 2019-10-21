@@ -1,10 +1,10 @@
-!*.askubuntu.com , StackExchange
-!*.esperantostackexchange.com , StackExchange
-!*.mathoverflow.net , StackExchange
-!*.serverfault.com , StackExchange
-!*.stackapps.com , StackExchange
-!*.stackexchange.com , StackExchange
-!*.stackoverflow.com , StackExchange
-!*.superuser.com , StackExchange
+@^[^/]+//(?:[^/]+\.)?askubuntu\.com/ , StackExchange
+@^[^/]+//(?:[^/]+\.)?esperantostackexchange\.com/ , StackExchange
+@^[^/]+//(?:[^/]+\.)?mathoverflow\.net/ , StackExchange
+@^[^/]+//(?:[^/]+\.)?serverfault\.com/ , StackExchange
+@^[^/]+//(?:[^/]+\.)?stackapps\.com/ , StackExchange
+@^[^/]+//(?:[^/]+\.)?stackexchange\.com/ , StackExchange
+@^[^/]+//(?:[^/]+\.)?stackoverflow\.com/ , StackExchange
+@^[^/]+//(?:[^/]+\.)?superuser\.com/ , StackExchange
 
-!*.sstatic.net , StackExchange
+@^[^/]+//(?:[^/]+\.)?sstatic\.net/ , StackExchange
